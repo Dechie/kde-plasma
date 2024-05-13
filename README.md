@@ -1,17 +1,13 @@
 # kde_plasma
 
-A new Flutter project.
+a flutter clone of the kde plasma linux DE 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Demo
 
-A few resources to get you started if this is your first Flutter project:
+Watch the demo video below:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# kde-plasma
+<video width="560" height="315" controls>
+  <source src="https://github.com/Dechie/kde-plasma/blob/main/Demo/kde%20plasma-2024-05-13_18.40.39.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
